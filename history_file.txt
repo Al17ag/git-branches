@@ -1,0 +1,142 @@
+    1  ssh - T git@github.com
+    2  ssh -T git@github.com
+    3  git config --global user.name "Al17ag"
+    4  git config --global user.email "agomer225@gmail.com"
+    5  git config --global
+    6  git config --global -l
+    7  history 
+    8  git clone git@github.com:Al17ag/Git_GA_220424.git
+    9  /g/itcareerhub/Git/ nano song.txt
+   10  /g/itcareerhub/Git/Git_GA_220424/$ nano song.txt
+   11  git status
+   12  nano song.txt
+   13  git status
+   14  /g/itcareerhub/Git/
+   15  git status
+   16  /g/itcareerhub/Git/Git_GA_220424/
+   17  git status
+   18  /g/itcareerhub/Git/Git_GA_220424/
+   19  /g/itcareerhub/Git/Git_GA_220424/
+   20  /g/itcareerhub/Git/Git_GA_220424/
+   21  /g/itcareerhub/Git/Git_GA_220424/ 
+   22  /g/itcareerhub/Git/Git_GA_220424/
+   23  ls -al
+   24  ~/IT-CH/GIT
+   25  git --version
+   26  /g/itcareerhub/Git/Git_GA_220424/
+   27  /g/itcareerhub/Git/Git_GA_220424/
+   28  cd Git_GA_220424/
+   29  ls -al
+   30  cd Git_Ga_220424
+   31  cd /g/itcareerhub/Git/ git clone git@github.com:Al17ag/Git_GA_220424.git
+   32  cd /g/itcareerhub/Git git clone git@github.com:Al17ag/Git_GA_220424.git
+   33  cd /g/itcareerhub/Git$ git clone git@github.com:Al17ag/Git_GA_220424.git
+   34  ls -al
+   35  git clone git@github.com:Al17ag/Git_GA_220424.git
+   36  ls -al
+   37  cd Git_GA_220424
+   38  ls -al
+   39  git log
+   40  nano song.txt
+   41  git push
+   42  git add .
+   43  git status
+   44  git commit -m "Add file song.txt"
+   45  git log
+   46  git push
+   47  cd /g/itcareerhub/
+   48  ls -al
+   49  cd Git
+   50  cd ls -al
+   51  ls -al
+   52  cd Homework_11/
+   53  gti status
+   54  git status
+   55  git commit -m "Homework_11"
+   56  Git push
+   57  cd
+   58  cd /g/itcareerhub/Git/
+   59  cd /g/itcareerhub/Git/
+   60  mkdir -p Linus
+   61  ls -la
+   62  nano Linus/
+   63  ls -al
+   64  ls -la
+   65  Linus
+   66  cd /g/itcareerhub/LINUX/
+   67  ls -al
+   68  cd /g/itcareerhub/Git/
+   69  mkdir -m LINUX
+   70  ls -al
+   71  mkdir --help
+   72  git init
+   73  ls -al
+   74  ls -al
+   75  git clone git@github.com:Al17ag/Git_merge_rebase.git
+   76  ls -al
+   77  nano Git_merge_rebase/
+   78  cd /g/itcareerhub/Git/Git_merge_rebase/
+   79  nano 
+   80  ls -al
+   81  git init
+   82  git add.
+   83  git add .
+   84  git commit -m "Линус"
+   85  git branch
+   86  git chekout -b feature
+   87  git branch
+   88  git checkout -b feature
+   89  git branch
+   90  ls -al
+   91  nano README.md 
+   92  nano biography 
+   93  git commit -m "modified_files_README.md_and_biography"
+   94  git push
+   95  git push --set-upstream origin feature
+   96  git push
+   97  git commit --amend -m "ammend"
+   98  git branch 
+   99  git log
+  100  git checkout main
+  101  git merge feature
+  102  history > history_file.txt
+  103  export PROMPT_COMMAND='history -a'
+  104  shopt -s histappend
+  105  git add history_file.txt 
+  106  git commit -m "history"
+  107  git push
+  108  cd g:
+  109  cd
+  110  св
+  111  cd
+  112  cd /g/itcareerhub/Git/ git clone git@github.com:Al17ag/git-branches.git
+  113  ls -la
+  114  cd g:
+  115  cd /g/itcareerhub/Git/
+  116  ls -al
+  117  git clone git@github.com:Al17ag/git-branches.git
+  118  echo "test_1.txt"
+  119  ls -al
+  120  cd /g/itcareerhub/Git/git-branches/
+  121  echo "Test_1"
+  122  ls -al
+  123  touch newfile.txt
+  124  git add newfile.txt 
+  125  git commit -m "добавлен новый файл newfile.txt"
+  126  nano newfile.txt 
+  127  git checkout  -b branch2
+  128  ls -al
+  129  nano newfile.txt 
+  130  git checkout main
+  131  nano newfile.txt 
+  132  git merge branch2 
+  133  git checkout branch2 
+  134  git rebase main 
+  135  git log --all --oneline > my-gitlog1.txt
+  136  git add .
+  137  cat newfile.txt 
+  138  git checkout main 
+  139  cat newfile.txt 
+  140  git commit -m "отправление"
+  141  git push
+  142  history > history_file.txt
